@@ -1,2 +1,2 @@
-# Notas da unidade curricular de *Metodologia de Desenvolvimento de Software*
+# Notas da unidade curricular de *Metodologias de Desenvolvimento de Software*
 
